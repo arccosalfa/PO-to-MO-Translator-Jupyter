@@ -55,9 +55,3 @@ Bu API, tarayıcıda Google Translate kullandığında arka planda yapılan ça�
 - ⚠️ Fazla kullanımda IP sınırına takılabilir  
 
 ---
-
-## 🔧 Kullanım (Jupyter Üzerinde)
-
-1. Gerekli kütüphaneleri yükle:
-   ```bash
-   pip install polib requests
